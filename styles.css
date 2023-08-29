@@ -1,5 +1,34 @@
 /* This is a class - it has an dot in front of it :)! */
+* {
+    border: 2px solid red;
+    padding: 5px;
+    /* margin: 50px; */
+}
+
 .main-title {
     font-size: 64px;
+    background-color: burlywood;
     color: rebeccapurple;
+}
+
+.top-return {
+    font-size: 22px;
+    color: blue;
+    font-weight: bold;
+}
+
+.recipe-list {
+    background-color: antiquewhite;
+}
+
+#lasang {
+    color: aquamarine;
+}
+
+.recipe-list .lasagna {
+    background-color: red;
+}
+
+body {
+    background-color: beige;
 }
